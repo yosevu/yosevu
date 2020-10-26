@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello! I'm Yosevu. I build things for the web at [Sparkbox](https://seesparkbox.com).
+
+[![Yosevu's github stats](https://github-readme-stats.vercel.app/api?username=yosevu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **yosevu/yosevu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
