@@ -1,7 +1,8 @@
-### Hello! I'm Yosevu. I build things for the web at [Sparkbox](https://seesparkbox.com).
+### Hello! I'm Yosevu (he/him). I build things for the web, mostly.
+
+Here are some fun stats on what I've been up to:
 
 [![Yosevu's github stats](https://github-readme-stats.vercel.app/api?username=yosevu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **yosevu/yosevu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
